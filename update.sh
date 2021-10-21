@@ -1,7 +1,7 @@
 echo "Updating..."
 
 sudo apt update
-sudo apt upgrader -y
+sudo apt upgrade -y
 
 echo "Server is updated!"
 
