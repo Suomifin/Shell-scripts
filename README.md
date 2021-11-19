@@ -1,13 +1,13 @@
 # Sh
 Best sh scripts!
 
-## Palvelin päivitys skript komento:
+## Server update:
 
 ```
 sudo wget -O - https://raw.githubusercontent.com/Suomifin/Sh/main/update.sh | bash
 ```
 
-## Pterodactyl panel päivyts script:
+## Pterodactyl panel updating:
 
 ```
 sudo wget -O - https://raw.githubusercontent.com/Suomifin/Sh/main/pterodactylupdate.sh | bash
