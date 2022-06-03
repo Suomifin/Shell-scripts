@@ -15,3 +15,6 @@ sudo apt install -y php8.0 php8.0-{cli,common,gd,mysql,mbstring,bcmath,xml,fpm,c
 
 sudo systemctl enable php8.0-fpm
 sudo systemctl start php8.0-fpm
+
+echo "Script by: Suomifin"
+echo "Last update: 3.6.2022"
