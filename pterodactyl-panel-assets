@@ -1,0 +1,14 @@
+echo "Welcome to Pterodactyl panel assets installing script!
+
+curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+apt install -y nodejs
+
+npm i -g yarn
+
+cd /var/www/pterodactyl
+yarn
+
+cd /var/www/pterodactyl
+
+echo "Suomifin#3713 Pterodactyl panel assets install"
+echo "Next run 'yarn build:production'"
