@@ -10,6 +10,6 @@ sudo wget -O - https://raw.githubusercontent.com/Suomifin/Sh/main/update.sh | ba
 ## Pterodactyl panel updating:
 
 ```
-sudo wget -O - https://raw.githubusercontent.com/Suomifin/Sh/main/pterodactylupdate.sh | bash
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactylupdate.sh
 ```
 
