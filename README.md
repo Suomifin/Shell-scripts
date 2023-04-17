@@ -12,4 +12,8 @@ sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/upd
 ```
 sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactylupdate.sh || bash
 ```
+## Pterodactyl panel assets installing to creating custom pterodactyl themes:
 
+```
+sudo wget -0 - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets || bash
+```
