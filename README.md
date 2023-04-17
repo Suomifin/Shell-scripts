@@ -1,4 +1,4 @@
-# Sh
+# Shell-scripts
  Best sh scripts! For debian 10 & 11 
 
 ## Server update:
