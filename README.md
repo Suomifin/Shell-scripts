@@ -15,5 +15,5 @@ sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pte
 ## Pterodactyl panel assets installing to creating custom pterodactyl themes:
 
 ```
-sudo wget -0 - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets || bash
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets || bash
 ```
