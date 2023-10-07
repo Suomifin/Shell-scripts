@@ -17,3 +17,9 @@ sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pte
 ```
 sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets || bash
 ```
+
+## Install nginx and PhP 8.1:
+
+```
+sudo wget -O - [https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets](https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/nginxphp8.1.sh)https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/nginxphp8.1.sh || bash
+```
