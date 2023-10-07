@@ -1,5 +1,5 @@
 # Shell-scripts
- Best sh scripts! For debian 10 & 11 
+ Best sh scripts! For debian 11 & 12
 
 ## Server update:
 
