@@ -10,16 +10,16 @@ sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/upd
 ## Pterodactyl panel updating:
 
 ```
-sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactylupdate.sh || bash
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactylupdate.sh | bash
 ```
 ## Pterodactyl panel assets installing to creating custom pterodactyl themes:
 
 ```
-sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets || bash
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/pterodactyl-panel-assets | bash
 ```
 
 ## Install nginx and PhP 8.1:
 
 ```
-sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/nginxphp8.1.sh || bash
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/nginxphp8.1.sh | bash
 ```
