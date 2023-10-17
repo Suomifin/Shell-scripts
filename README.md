@@ -5,7 +5,7 @@
 ## Update hostname:
 
 ```
-wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/hostname-update.sh
+wget https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/hostname-update.sh
 ```
 And then run bash hostname-update.sh
 
