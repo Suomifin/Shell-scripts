@@ -5,8 +5,10 @@
 ## Update hostname:
 
 ```
-sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/hostname-update.sh | bash
+wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/hostname-update.sh
 ```
+And then run bash hostname-update.sh
+
 ## Server update:
 
 ```
