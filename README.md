@@ -1,6 +1,12 @@
 # Shell-scripts
  Best sh scripts! For debian 11 & 12
 
+ 
+## Update hostname:
+
+```
+sudo wget -O - https://raw.githubusercontent.com/Suomifin/Shell-scripts/main/hostname-update.sh | bash
+```
 ## Server update:
 
 ```
